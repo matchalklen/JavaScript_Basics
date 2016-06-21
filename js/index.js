@@ -32,7 +32,7 @@ function start() {
 	$(".readmore").click(showMore);
 	$(".readless").click(showLess);
 	$(".learnmore").click(learnMore);
-	$(".learnless").click(learnLess)
+	$(".learnless").click(learnLess);
 }
 
 $(document).ready(start);
